@@ -1,0 +1,136 @@
+.top {
+    justify-content: center;
+    max-width: 100%;
+    display: flex;
+    padding: 10px;
+}
+.word {
+    display: flex;
+    justify-content: space-between;
+}
+.word a {
+    color: white;
+    text-decoration: none;
+}
+.bottom {
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+.fas fa-shopping-bag {
+    color: white;
+}
+.stuff {
+    display: flex;
+    justify-content: space-between;
+    width: 37%;
+    height: 0px;
+}
+.head-stuff {
+    display: flex;
+    justify-content: center;
+}
+.word-2 {
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: rgb(245, 68, 68);
+    
+}
+.word-3 {
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;    
+    color: rgb(147, 155, 177);
+}
+.word-4{
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;    
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 120px;
+}
+.img-burger {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.butten {
+    display: flex;
+    justify-content: center;
+}
+.seemore {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(245, 47, 47);
+    border-radius: 50px;
+    width: 16%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.pic {
+    border-radius: 50%;
+    width: 715px;
+}
+.info-1 {
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3%;
+}
+.about-us {
+    display: flex;
+    padding: 140px 0px;
+}
+.info-2 {
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+.info-3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(92, 92, 92);
+}
+.info-4 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(92, 92, 92);
+}
+.offers {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    padding: 0px 60px;
+}
+.offers-word {
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.offers-concent {
+    padding: 70px 100px;
+}
+.sandwich {
+    padding:  60px 0px;
+}
+.sandwich-word {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.fat {
+    border: gray;
+    font-size: 15px;
+}
